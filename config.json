@@ -1,7 +1,7 @@
 {
-    "TOKEN": "",
-    "CHANNEL": "782609855961104404",
-    "SERVER": "747418624494534668",
-    "LIVE": "https://www.youtube.com/watch?v=IP0ZRj-_xG4",
-    "STATUS": "NCS"
+    "TOKEN": "YOUR TOKEN ",
+    "CHANNEL": "CHANNEL ID ",
+    "SERVER": "YOUR SERVER GUILD ID",
+    "LIVE": "YOUTUBE LIVESTREAM LINK",
+    "STATUS": "THE STATUS FROM THE BOT"
 }
