@@ -11,6 +11,11 @@
 </p>
 
 > Use now the Radio Bot!
+> Instructions
+> Go to your server Use "git clone https://github.com/BrainFoot/RadioBot" 
+> Then "npm i discord.js", "npm i ytdl-core", "npm i @discordjs/opus", "npm i ffmpeg-static" Then "node index.js" 
+> An thats it! 
+> Join our [Discord](https://discord.gg/5Kv3azkbDK) for more Help!
 
 ### 🏠 [Homepage](https://codingcafe.eu/)
 
